@@ -18,7 +18,7 @@ author:
   email: belinda.deramoredenver@acu.edu.au
   name: Belinda Deramore Denver
 description: >- # this means to ignore newlines until "baseurl:"
-  Last updated 30th September 2020
+  Last updated 12th December 2020
 baseurl: "/mevu" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
