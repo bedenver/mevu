@@ -6,22 +6,16 @@ layout: home
 ---
 # What is MEVU?
 
-MEVU is ...
+The Measure of Early Vision Use, or MEVU, is a tool that can measure how well your child uses their vision in everyday activities, interactions and environments. 
 
-MEVU has demonstrated adequate
+MEVU describes typical performance in everyday activities, not best performance. 
 
-is currently only available in a research version as further validation and reliability studies
+MEVU is different to a test of the eyes - other factors such as cognition or motor skills might also explain your child's ability to use (or not use) vision in everyday activities. 
 
-## MEVU items and scale
-MEVU is currently only available as a research version – see [ongoing research](/ongoing-research/). To share what MEVU looks like we have listed the items here and provided an example of one of the items.
+To find out how a child uses vision in everyday activities we must ask parents and caregivers who known the child well. MEVU asks questions about visual behaviours that can be observed by people families with your child - you!
 
-MEVU has fourteen items:
-1. Does your child react to visual information?
-1. two
-1. three
-1. four
 
-## References for the initial development and validation of MEVU
-(manuscripts currently under submission)
+# Website under construction!
+This website is currently under construction - it will be updated in early 2021. 
 
-The results of these studies show that MEVU has relevant, comprehensive and comprehensible content for the measurement of visual ability, and that MEVU measures a unidimensional construct, has adequate structural validity, excellent internal consistency, adequate construct validity, and is feasible as a parent-completed online assessment.
+
