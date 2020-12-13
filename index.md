@@ -4,7 +4,6 @@
 
 layout: home
 ---
-![MEVU logo](C:\Users\bedenver\OneDrive - Australian Catholic University\MEVU website)
 # What is MEVU?
 
 The Measure of Early Vision Use, or MEVU, is a tool that can measure how well your child uses their vision in everyday activities, interactions and environments. 
