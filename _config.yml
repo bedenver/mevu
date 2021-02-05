@@ -19,7 +19,7 @@ author:
   name: Belinda Deramore Denver
 description: >- # this means to ignore newlines until "baseurl:"
   Last updated 12th December 2020
-baseurl: "/mevu" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://measureofearlyvisionuse.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
