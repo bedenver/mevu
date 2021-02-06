@@ -29,7 +29,7 @@ The research team includes:
 The development of MEVU has also involved many families and individuals, and health and educational professionals. Without the contribution of these people the development of MEVU would not have been possible. 
 
 # Published research
-Deramore Denver, B., Froude, E., Rosenbaum, P., Wilkes-Gillan, S. & Imms, C. (2016). Measurement of visual ability in children with cerebral palsy: a systematic review. *Developmental Medicine & Child Neurology, 58(10),* 1016-1029.
+Deramore Denver, B., Froude, E., Rosenbaum, P., Wilkes-Gillan, S. & Imms, C. (2016). Measurement of visual ability in children with cerebral palsy: a systematic review. *Developmental Medicine & Child Neurology, 58(10),* 1016-1029. <https://doi.org/10.1111/dmcn.13139>
 
 Deramore Denver, B., Adolfsson, M., Froude, E., Rosenbaum, P., & Imms, C. (2017). Methods for conceptualising ‘visual ability’ as a measurable construct in children with cerebral palsy. *BMC Medical Research Methodology, 17(46),* 1-13. <https://doi.org/10.1186/s12874-017-0316-6>
 
