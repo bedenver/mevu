@@ -8,7 +8,7 @@ permalink: /questions/
 <br/>
 
 # How was MEVU developed?
-The need to develop a new measurement tool began after a thorough review of existing instruments. The questions and response options for MEVU were developed from existing measurement tools and the involvement of key people: parents of children with cerebral palsy, adults with a diagnosis of cerebral palsy, and health and educational professionals who work with children and families. 
+The need to develop a new measurement tool only began after a thorough review of existing instruments. The questions and response options for MEVU were developed from existing measurement tools and the involvement of key people: parents of children with cerebral palsy, adults with a diagnosis of cerebral palsy, and health and educational professionals who work with children and families. 
 
 Development of MEVU involved three phases of research: 
 1. Conceptualisation - what to measure
