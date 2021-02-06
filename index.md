@@ -8,7 +8,7 @@ layout: home
 
 # What is MEVU?
 
-The Measure of Early Vision Use, or MEVU, is a tool designed to assess how well your child uses their vision in everyday activities, interactions and environments. MEVU is a questionnaire for parents and caregivers to complete and focuses on early visual behaviours. MEVU describes typical performance in everyday activities, not best performance. MEVU describes typical performance in everyday activities, not best performance. 
+The Measure of Early Vision Use, or MEVU, is a tool designed to assess how well your child uses their vision in everyday activities, interactions and environments. MEVU was developed for children with cerebral palsy, however it may be useful for other populations. MEVU is a questionnaire for parents and caregivers to complete and focuses on early visual behaviours. MEVU describes typical performance in everyday activities, not best performance. MEVU describes typical performance in everyday activities, not best performance. 
 
 MEVU is different to a test of the eyes - other factors such as cognition or motor skills might also explain your child's ability to use (or not use) vision in everyday activities. In MEVU it doesn't matter 'why' - your answers are all about 'how' vision is used. 
 
