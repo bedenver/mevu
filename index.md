@@ -45,7 +45,7 @@ MEVU might be helpful for these reasons:
 MEVU should not be used as an alternative to vision/eye tests.
 
 # Where can I find MEVU? And what do I need to do?
-MEVU is currently only available as a research tool. Whilst MEVU appears to be a valid and useful tool, we need more information about its validity and reliability before it is recommended as a good tool to use. If you would like to help with further testing of MEVU you can complete MEVU for your child within one of our research studies. More information is available in [ongoing research] (/ongoing-research/). 
+MEVU is currently only available as a research tool. Whilst MEVU appears to be a valid and useful tool, we need more information about its validity and reliability before it is recommended as a good tool to use. If you would like to help with further testing of MEVU you can complete MEVU for your child within one of our research studies. See [ongoing research](/ongoing-research/) for more information.
 
 When completing MEVU you (the parent or caregiver) need to answer 14 questions about your child's use of vision in everyday activities, interactions and environments. You should answer the questions based on **your observations** of your child. Each question has four response options and you need to select the response that best describes your child.
 
