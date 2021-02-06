@@ -16,6 +16,7 @@ This research project...
 
 [Other interested people]() 
 
+
 # Coming soon
 
 The following research projects will be launching in March 2021:
@@ -23,6 +24,7 @@ The following research projects will be launching in March 2021:
  - Health and educational professionals
  
  If you would like to be notified when these projects open please....
+ 
  
  # Future research 
  
