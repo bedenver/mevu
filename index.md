@@ -12,6 +12,22 @@ The Measure of Early Vision Use, or MEVU, is a tool that can measure how well yo
 
 MEVU is different to a test of the eyes - other factors such as cognition or motor skills might also explain your child's ability to use (or not use) vision in everyday activities. In MEVU it doesn't matter 'why' - your answers are all about 'how' vision is used. 
 
+MEVU asks questions about the following visual behaviours:
+1. Reacts
+2. Visually attends to people
+3. Visually attends to toys & objects
+4. Visually attends to what the hands are doing
+5. Visually attends to books & pictures
+6. Visually attends to digital screens
+7. Uses vision over distance
+8. Shifts looking
+9. Follows
+10. Searches for & Finds
+11. Shares visual attention
+12. Responds to details
+13. Time to respond
+14. Overall use of vision
+
 # Why would I complete MEVU on my child?
 
 To find out how a child uses vision in everyday activities we must ask parents and caregivers who known the child well. MEVU asks questions about visual behaviours that can be observed by people families with your child - you!
@@ -29,6 +45,8 @@ MEVU might be helpful for these reasons:
 MEVU should not be used as an alternative to vision/eye tests.
 
 # Where can I find MEVU? And what do I need to do?
-MEVU is still on available as a research tool. We need more information about its validity and reliability before it is recommended as a good tool to use. If you would like to complete MEVU on your child you can find information about how to participate in the ONGOING RESEARCH tab on the website. Alternatively you can contact the research team here: <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
+MEVU is currently only available as a research tool. Whilst MEVU appears to be a valid and useful tool, we need more information about its validity and reliability before it is recommended as a good tool to use. If you would like to help with further testing of MEVU you can complete MEVU for your child within one of our research studies. More information is available in [ongoing research] (/ongoing-research/).
 
 When completing MEVU you (the parent or caregiver) need to answer 14 questions about your child's use of vision in everyday activities, interactions and environments. You should answer the questions based on **your observations** of your child. Each question has four response options and you need to select the response that best describes your child.
+
+For more information please ou can contact the research team here: <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
