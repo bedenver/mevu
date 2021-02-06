@@ -1,8 +1,8 @@
 ---
 layout: page
-nav_title: Questions
-title: Frequently asked questions about MEVU
-permalink: /questions/
+nav_title: Development of MEVU
+title: Development of MEVU
+permalink: /Development of MEVU/
 ---
 
 <br/>
