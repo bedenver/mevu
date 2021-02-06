@@ -2,7 +2,7 @@
 layout: page
 nav_title: Development of MEVU
 title: Development of MEVU
-permalink: /Development of MEVU/
+permalink: /questions/
 ---
 
 <br/>
