@@ -7,10 +7,32 @@ permalink: /questions/
 
 <br/>
 
-# This page is under construction.
+# How was MEVU developed?
+The need to develop a new measurement tool began after a thorough review of existing instruments. The questions and response options for MEVU were developed from existing measurement tools and the involvement of key people: parents of children with cerebral palsy, adults with a diagnosis of cerebral palsy, and health and educational professionals who work with children and families. 
 
-### Do you have a question?
+Development of MEVU involved three phases of research: 
+1. Conceptualisation - what to measure
+2. Development - how to measure
+3. Evaluation of psychometric properties 
 
-If you have other questions please send it to <a href="mailto:belinda.deramoredenver@acu.edu.au">belinda.deramoredenver@acu.edu.au</a> 
+Further research is underway, including research with other populations e.g. children with vision impairment. See [ongoing research](/ongoing-research/) for more information.
+
+# Who are the developers?
+The Measure of Early Vision Use (MEVU) is the primary outcome of Belinda Deramore Denver's PhD research. 
+
+The research team includes:
+- Belinda Deramore Denver - Occupational Therapist
+- A/Prof Elspeth Froude - Occupational Therapist
+- Prof Peter Rosenbaum - Paediatrician
+- Prof Christine Imms - Occupational Therapist
+
+The development of MEVU has also involved many families and individuals, and health and educational professionals. Without the contribution of these people the development of MEVU would not have been possible. 
+
+# Published research
+
+
+
+# Contact the developers
+If you have any questions please send it to <a href="mailto:belinda.deramoredenver@acu.edu.au">belinda.deramoredenver@acu.edu.au</a> 
 
 Or complete the online form available at <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
