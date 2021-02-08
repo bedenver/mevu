@@ -13,9 +13,6 @@ The following research projects are currently open and collecting data. Please c
 Ongoing data collection within the project includes further evaluation of validity and reliability with the parents of children with cerebral palsy and with the parents of children with vision impairment (ocular and cerebral vision impairment). 
 
 
-[Other interested people]() 
-
-
 # Coming soon/Future research
 
 The following research projects will be launching in March 2021:
