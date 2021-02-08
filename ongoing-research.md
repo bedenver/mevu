@@ -16,16 +16,12 @@ Ongoing data collection within the project includes further evaluation of validi
 [Other interested people]() 
 
 
-# Coming soon
+# Coming soon/Future research
 
 The following research projects will be launching in March 2021:
  - Content validity with parents of children with vision impairment
  - Health and educational professionals
  
- If you would like to be notified when these projects open please....
- 
- # Future research
- 
- There is potential for MEVU to be a useful tool to guide and evaluate early interventions to optimise visual abilities. 
+ If you would like to be notified when these projects open please.... 
  
  
