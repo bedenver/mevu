@@ -30,7 +30,7 @@ MEVU asks questions about the following visual behaviours:
 
 # Why would I complete MEVU on my child?
 
-To find out how a child uses vision in everyday activities we must ask parents and caregivers who known the child well. MEVU asks questions about visual behaviours that can be observed by people families with your child - you!
+To find out how a child uses vision in everyday activities we must ask parents and caregivers who know the child well. MEVU asks questions about visual behaviours that can be observed by people familiar with your child - you!
 
 MEVU might be helpful for these children:
 - Young children because early visual behaviours influence other areas of development and learning;
