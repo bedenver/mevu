@@ -49,4 +49,4 @@ MEVU is currently only available as a research tool. Whilst MEVU appears to be a
 
 When completing MEVU you (the parent or caregiver) need to answer 14 questions about your child's use of vision in everyday activities, interactions and environments. You should answer the questions based on **your observations** of your child. Each question has four response options and you need to select the response that best describes your child.
 
-For more information please ou can contact the research team here: <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
+For more information please contact the research team here: <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
