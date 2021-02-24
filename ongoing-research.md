@@ -13,11 +13,5 @@ The following research projects are currently open and collecting data. Please c
 Ongoing data collection within the project includes further evaluation of validity and reliability with the parents of children with cerebral palsy and with the parents of children with vision impairment (ocular and cerebral vision impairment). 
 
 
-# Coming soon/Future research
-
-The following research projects will be launching in March 2021:
- - Content validity with parents of children with vision impairment
- - Health and educational professionals
- 
- If you would like to be notified when other projects open please provide the research team with your contact details [here](https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT).
+If you would like to be notified when other projects open please provide the research team with your contact details [here](https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT).
  
