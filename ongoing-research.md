@@ -19,6 +19,6 @@ The following research projects will be launching in March 2021:
  - Content validity with parents of children with vision impairment
  - Health and educational professionals
  
- If you would like to be notified when these projects open please.... 
- 
+ If you would like to be notified when other projects open please provide the research team with your contact details her. 
+ Or complete the online form available at <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
  
