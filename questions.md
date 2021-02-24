@@ -22,9 +22,9 @@ The Measure of Early Vision Use (MEVU) is the primary outcome of Belinda Deramor
 
 The research team includes:
 - Belinda Deramore Denver - B. Psych, B AppSc (OT) & Grad Cert Ed (VI)
-- A/Prof Elspeth Froude - Occupational Therapist
-- Prof Peter Rosenbaum - Paediatrician
-- Prof Christine Imms - Occupational Therapist
+- A/Prof Elspeth Froude - PhD, GradDip (Neurosciences),  BAppSc (OT)
+- Prof Peter Rosenbaum - MD, FRCP(C), DSc (HC)
+- Prof Christine Imms - PhD, MSc (Rehab Sc), BAppSAc(OT), Fellow, OTARA
 
 The development of MEVU has also involved many families and individuals, and health and educational professionals. Without the contribution of these people the development of MEVU would not have been possible. 
 
