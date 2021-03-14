@@ -15,7 +15,7 @@ Development of MEVU involved three phases of research:
 2. Development - how to measure
 3. Evaluation of psychometric properties 
 
-The development of MEVU was recently described in a Webinar for the CP-ACHIEVE Centre for Research Excellence (https://www.cp-achieve.org.au/resources/podcasts-and-webinars/) in a 15 minute presentation titled 'Introducing the Measure of Early Vision Use'. The webinar can be viewed [here](https://youtu.be/-xtFWkdwPs4).
+The development of MEVU was recently described in a Webinar for the NHMRC Funded Centre for Research Excellence: CP-ACHIEVE (https://www.cp-achieve.org.au/resources/podcasts-and-webinars/) in a 15 minute presentation titled 'Introducing the Measure of Early Vision Use'. The webinar can be viewed [here](https://youtu.be/-xtFWkdwPs4).
 
 Further research is underway, including research with other populations e.g. children with vision impairment. See [ongoing research](/ongoing-research/) for more information.
 
