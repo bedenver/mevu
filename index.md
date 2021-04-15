@@ -51,6 +51,6 @@ When completing MEVU you (the parent or caregiver) need to answer 14 questions a
 
 If you are a health or educational professional or a researcher who is interested in using MEVU please contact the research team. MEVU is currently only available as a research version as further psychometric testing is important. 
 
-For more information please contact the research team here: <https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>
+For more information please contact the research team [via this form](<https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT>)
 
 
