@@ -35,9 +35,9 @@ Deramore Denver, B., Froude, E., Rosenbaum, P., Wilkes-Gillan, S. & Imms, C. (20
 
 Deramore Denver, B., Adolfsson, M., Froude, E., Rosenbaum, P., & Imms, C. (2017). Methods for conceptualising ‘visual ability’ as a measurable construct in children with cerebral palsy. *BMC Medical Research Methodology, 17(46),* 1-13. <https://doi.org/10.1186/s12874-017-0316-6>
 
-Deramore Denver, B., Froude, E., Rosenbaum, P. & Imms, C. (2020). Measurement of Early Vision Use: Development of a new assessment tool for children with cerebral palsy. <http://dx.doi.org/10.1080/09638288.2021.1890241>.
+Deramore Denver, B., Froude, E., Rosenbaum, P. & Imms, C. (2020). Measurement of Early Vision Use: Development of a new assessment tool for children with cerebral palsy. *Disability & Rehabilitation, <http://dx.doi.org/10.1080/09638288.2021.1890241>.
 
-Deramore Denver, B., Froude, E., Rosenbaum, P. & Imms, C. (2020). Measurement of Early Vision Use: Initial validation with parents of children with cerebral palsy. <http://dx.doi.org/10.1080/09638288.2021.1890243>.
+Deramore Denver, B., Froude, E., Rosenbaum, P. & Imms, C. (2020). Measurement of Early Vision Use: Initial validation with parents of children with cerebral palsy. *Disability & Rehabilitation, <http://dx.doi.org/10.1080/09638288.2021.1890243>.
 
 # Contact the developers
 If you have any questions please send it to <a href="mailto:belinda.deramoredenver@acu.edu.au">belinda.deramoredenver@acu.edu.au</a> 
