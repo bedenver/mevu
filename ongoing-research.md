@@ -19,5 +19,5 @@ The research team are also exploring the validity of using MEVU with children wi
 
 [Health and educational professionals who work with children with vision impairment](https://rdcap.acu.edu.au/surveys/?s=PD4WR3NYJN)
 
-If you would like to be notified when other projects open please provide the research team with your contact details [here](https://rdcap.acu.edu.au/surveys/?s=9ELE9X43XT).
+If you would like to be notified when other projects open please provide the research team with your contact details [here](https://redcap.acu.edu.au/surveys/?s=FPKTEERANXM4T434).
  
